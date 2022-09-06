@@ -53,11 +53,11 @@ Ich möchte einen zufälligen numerguesser der Zahler zwischen 1 und 100 generie
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |    5.9    |     Lennard      |       wenn man Zahl eingibt kommt richtig oder falsch       |       30 min        |
-| ...  |    5.9    |     Lennard     |         Man kann auswehlen zwischen welchen Zahlen die zufällige zahl generiert wird     |       40 min        |
-| ...  |      5.9  |     Lennard      |          wenn man Zahl eingibt kommt richtig    |       45 min        |
-| ...  |   5.9     |     Lennard      |       wenn man Zahl eingibt kommt falsch       |         40 min      |
-| ...  |    5.9    |     Lennard      |       wenn man Zahl eingibt kommt ob die Zahl kleiner ist oder grösser    |    40 min           |
-| ...  |    5.9    |     Lennard     |        wenn man Zahl eingibt kommt und es richtig oder falsch ist kommt ein Geräusch bei richtig anders als bei falsch       | 80 min              |
+|2.A  |    5.9    |     Lennard     |         Man kann auswehlen zwischen welchen Zahlen die zufällige zahl generiert wird     |       40 min        |
+| 1.B  |      5.9  |     Lennard      |          wenn man Zahl eingibt kommt richtig    |       45 min        |
+| 1.C|   5.9     |     Lennard      |       wenn man Zahl eingibt kommt falsch       |         40 min      |
+| 4.A  |    5.9    |     Lennard      |       wenn man Zahl eingibt kommt ob die Zahl kleiner ist oder grösser    |    40 min           |
+| 5.A  |    5.9    |     Lennard     |        wenn man Zahl eingibt kommt und es richtig oder falsch ist kommt ein Geräusch bei richtig anders als bei falsch       | 80 min              |
 
 Total: 
 
