@@ -8,8 +8,8 @@ Lennard Bühler
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.08   | 0.0.1   | Ich habe mit dem Planen meines Projekts angefangen und dazu angefangen die Projekt dokumentation zu machen
-| 30.08     |  0.0.2      |   ich habe die zufalszahl generiert und einige coole futures eingebaut                                                           |
-|       | 1.0.0   |                                                              |
+| 30.08     |  0.0.2      |   ich habe die zufalszahl generiert und einige coole futures eingebaut                                                         |
+|  6.09     | 1.0.0   |       Ich habe mein Projekt beendet leider konnte ich nicht mehr viele sachen hinzufügen                                                       |
 
 ## 1 Informieren
 
