@@ -41,7 +41,7 @@ Ich möchte einen zufälligen numerguesser der Zahler zwischen 1 und 100 generie
 |  1.3 | Programm gestartet            |     Zahl eingeben     |      Falsch             |
 | 4.1  | Programm gestartet            |      Zahl eingeben    |       Wird gezeigt ob richtige Zahl grösser oder kleiner ist            |
 |  5.1 | Programm gestartet            |      Zahl eingeben   |       Geräusch wird abgespielt wenn richtig oder wenn falsch anderes Geräusch            |
-|  3.1 | Programm gestartet            |      Zahl eingeben      |     Richtig auf in grüner Farbe          |
+|  3.1 | Programm gestartet            |      Zahl eingeben      |     Richtig auf in grüner Farbe und falsch rote farbe          |
 
 
 ### 1.4 Diagramme
@@ -58,23 +58,28 @@ Ich möchte einen zufälligen numerguesser der Zahler zwischen 1 und 100 generie
 | 1.C|   5.9     |     Lennard      |       wenn man Zahl eingibt kommt falsch       |         40 min      |
 | 4.A  |    5.9    |     Lennard      |       wenn man Zahl eingibt kommt ob die Zahl kleiner ist oder grösser    |    40 min           |
 | 5.A  |    5.9    |     Lennard     |        wenn man Zahl eingibt kommt und es richtig oder falsch ist kommt ein Geräusch bei richtig anders als bei falsch       | 80 min              |
-
+| 3.A  |    5.9    |     Lennard      |      Bei richtiger Zahl grüne Farbe bei falscher rote Farbe    |       60 min        |
 Total: 
 
 
 
 ## 3 Entscheiden
-
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich möchte einen guten Zahlen generator der zahlen zwischen 1 und 100 generieren kann und man dann eine Zahl eingibt und es geprüft wird ob sie richtig oder falsch ist. Ich möchte auch Farben einbauen. Wenn man keine Zahl eingibt wird einem gesagt das man eine Zahl eingeben sollte.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |   5.9    |   Lennard Bühler         |       30 min        |    20               |
+| 1.B  |  5.9       |   Lennard Bühler         |      45         |        30           |
+| 1.C  |  5.9      |   Lennard Bühler         |       40        |         45          |
+| 2.A  |       |   Lennard Bühler         |       40        |                   |
+| 3.A  |   5.9     |   Lennard Bühler         |       60        |       70            |
+| 4.A  |  5.9      |    Lennard Bühler        |        40       |       60            |
+| 5.A  |       |    Lennard Bühler        |        80       |                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
+e effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
@@ -82,8 +87,14 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |   13.09      |  Programm gibt aus ob richtig oder falsch        |    Lennard Bühler    |
+| 2.1  |   13.09      |  Programm gibt richtig bei richitger Zahl zwischen 1 und 100        |    Lennard Bühler    |
+| 1.2  |   13.09      |  Programm gibt falsch aus bei falscher Zahl        |    Lennard Bühler    |
+| 1.3  |   13.09      |  Programm gibt richtig aus bei richtiger Zahl        |    Lennard Bühler    |
+| 4.1  |   13.09      |      Programm gibt aus ob Zahl grösser oder kleiner ist     |    Lennard Bühler    |
+| 5.1  |   13.09      |  Programm gibt kein Geräusch aus         |    Lennard Bühler    |
+| 3.1  |   13.09             | Programm gibt richtig mit grüner Farbe aus und falsch mit roter         |    Lennard Bühler    |
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
